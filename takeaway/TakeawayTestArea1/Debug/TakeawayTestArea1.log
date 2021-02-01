@@ -1,0 +1,21 @@
+﻿  TakeawayTestArea1.cpp
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Item.h(46,27): warning C4244: 'argument': conversion from 'double' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Item.h(90,27): warning C4244: 'argument': conversion from 'double' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Order.h(17,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Order.h(100,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Order.h(115,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Order.h(146,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Order.h(92,13): warning C4101: 'cheapest_pos': unreferenced local variable
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Order.h(93,13): warning C4101: 'multiples': unreferenced local variable
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Order.h(165,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\Menu.h(135,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Callum\source\repos\TakeawayTestArea1\TakeawayTestArea1\TakeawayTestArea1.cpp(107,32): warning C4018: '<': signed/unsigned mismatch
+  TakeawayTestArea1.vcxproj -> C:\Users\Callum\source\repos\TakeawayTestArea1\Debug\TakeawayTestArea1.exe
